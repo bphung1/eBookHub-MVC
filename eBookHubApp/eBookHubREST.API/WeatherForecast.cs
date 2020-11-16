@@ -1,6 +1,6 @@
 using System;
 
-namespace eBookHub
+namespace eBookHubREST.API
 {
     public class WeatherForecast
     {
