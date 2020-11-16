@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBookHubREST.API", "eBookHubREST.API\eBookHubREST.API.csproj", "{47F8493F-02C2-427F-BDE8-F4D45D7B30F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBookHubREST.API", "eBookHubREST.API\eBookHubREST.API.csproj", "{B859E2AC-F9CD-4E48-9425-6608E33C95C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBookHub.DataAccess", "eBookHub.DataAccess\eBookHub.DataAccess.csproj", "{BB8E17C6-4506-41C3-826E-528C05981E04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBookHub.DataAccess", "eBookHub.DataAccess\eBookHub.DataAccess.csproj", "{ACCCDD1D-EB0F-4097-A3F8-D0AB6730B99E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBookHub.Library", "eBookHub.Library\eBookHub.Library.csproj", "{0CA78643-3745-4F57-8DDD-083747FDA795}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBookHub.Library", "eBookHub.Library\eBookHub.Library.csproj", "{3136BA66-ADBC-4338-8008-442CD7888AD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{47F8493F-02C2-427F-BDE8-F4D45D7B30F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47F8493F-02C2-427F-BDE8-F4D45D7B30F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47F8493F-02C2-427F-BDE8-F4D45D7B30F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47F8493F-02C2-427F-BDE8-F4D45D7B30F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BB8E17C6-4506-41C3-826E-528C05981E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BB8E17C6-4506-41C3-826E-528C05981E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BB8E17C6-4506-41C3-826E-528C05981E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BB8E17C6-4506-41C3-826E-528C05981E04}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0CA78643-3745-4F57-8DDD-083747FDA795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0CA78643-3745-4F57-8DDD-083747FDA795}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0CA78643-3745-4F57-8DDD-083747FDA795}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0CA78643-3745-4F57-8DDD-083747FDA795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B859E2AC-F9CD-4E48-9425-6608E33C95C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B859E2AC-F9CD-4E48-9425-6608E33C95C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B859E2AC-F9CD-4E48-9425-6608E33C95C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B859E2AC-F9CD-4E48-9425-6608E33C95C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCCDD1D-EB0F-4097-A3F8-D0AB6730B99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCCDD1D-EB0F-4097-A3F8-D0AB6730B99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCCDD1D-EB0F-4097-A3F8-D0AB6730B99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCCDD1D-EB0F-4097-A3F8-D0AB6730B99E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3136BA66-ADBC-4338-8008-442CD7888AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3136BA66-ADBC-4338-8008-442CD7888AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3136BA66-ADBC-4338-8008-442CD7888AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3136BA66-ADBC-4338-8008-442CD7888AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FE60213A-F104-4EE6-B43B-F036B15D4BAB}
+		SolutionGuid = {3BCE4975-E423-4786-BE9B-F368522183B6}
 	EndGlobalSection
 EndGlobal
